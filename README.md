@@ -32,7 +32,8 @@ An **AI-powered financial chatbot** that answers questions directly from annual 
 
 Here’s an example of the chatbot interface in action:
 
-![Financial Report Chatbot Screenshot](Screenshot 2025-08-03 003904.png)
+![Financial Report Chatbot Screenshot](Screenshot%202025-08-03%20003904.png)
+
 
 
 
