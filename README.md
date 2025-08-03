@@ -32,9 +32,9 @@ An **AI-powered financial chatbot** that answers questions directly from annual 
 
 Here’s an example of the chatbot interface in action:
 
-![Financial Report Chatbot Screenshot](assets/screenshots/Screenshot-2025-08-03-003904.jpg)
+![Financial Report Chatbot Screenshot](Screenshot 2025-08-03 003904.png)
 
-*(Make sure to place your screenshot at `assets/screenshots/Screenshot-2025-08-03-003904.jpg` or update the path as needed.)*
+
 
 ---
 
