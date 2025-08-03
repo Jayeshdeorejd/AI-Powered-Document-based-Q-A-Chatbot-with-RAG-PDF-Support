@@ -67,5 +67,3 @@ Here’s an example of the chatbot interface in action:
 - Displays answers in a friendly Streamlit interface.
 
 ---
-
-Enjoy using the AI-powered finance chatbot! 🎉
