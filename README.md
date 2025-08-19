@@ -39,7 +39,7 @@ Here’s an example of the chatbot interface in action:
 
 ---
 
-## ⚙ How to Run Locally
+##  How to Run Locally
 
 1. **Install dependencies**
     ```
